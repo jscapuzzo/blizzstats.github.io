@@ -7,7 +7,6 @@ This is a test mockup of how the site will look.
 The following games will be supported
 
 ```markdown
-Syntax highlighted code block
 
 **World of Warcraft**
 **Diablo 3**
