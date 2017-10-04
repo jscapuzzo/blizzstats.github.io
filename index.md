@@ -8,9 +8,9 @@ The following games will be supported
 
 ```
 
-**World of Warcraft**
-**Diablo 3**
-**Starcraft 2**
+World of Warcraft
+Diablo 3
+Starcraft 2
 
 ```
 
